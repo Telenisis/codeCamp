@@ -90,7 +90,9 @@ code {
     border: 1px solid;
     height: 207px;
   }
-
+    #quickBtn{
+        cursor: pointer;
+    }
   #navbar {
     background-color: white;
     position: absolute;
@@ -124,7 +126,4 @@ code {
     padding-right: 45px;
     min-width: 233px;
   }
-}
-only screen and (max-width: 815px){
-    
 }
