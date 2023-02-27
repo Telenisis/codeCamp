@@ -1,0 +1,10 @@
+*{
+    list-style: none;
+  }
+  .navbar{
+  height: 100%;
+  position:fixed;
+  }
+  #main-doc{
+  position:absolute;
+  }
