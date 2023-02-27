@@ -5,3 +5,6 @@ dropDown.addEventListener('click', drop)
 function drop(){
     console.log("I WORK");
 }
+function closeDrop(){
+    
+}
