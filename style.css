@@ -88,9 +88,10 @@ code {
 @media only screen and (max-width: 815px) {
   #navbar ul {
     border: 1px solid;
-    height: 207px;
-    display: none;
+    height: 0;
+    /*display: none;*/
     overflow:auto;
+    transition: height .5s;
   }
     #quickBtn{
         cursor: pointer;
@@ -129,8 +130,5 @@ code {
     padding-left: 10px;
     padding-right: 45px;
     min-width: 233px;
-  }
-  #navClick{
-    transition: display .5s;
   }
 }
