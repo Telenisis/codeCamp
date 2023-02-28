@@ -111,7 +111,8 @@ code {
   #main-doc {
     position: relative;
     margin-left: 0px;
-    margin-top: 270px;
+    margin-top: 60px;
+    transition: margin-top .5s;
   }
 }
 
