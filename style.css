@@ -90,6 +90,7 @@ code {
     border: 1px solid;
     height: 207px;
     display: none;
+    overflow:auto;
   }
     #quickBtn{
         cursor: pointer;
@@ -128,5 +129,8 @@ code {
     padding-left: 10px;
     padding-right: 45px;
     min-width: 233px;
+  }
+  #navClick{
+    transition: display .5s;
   }
 }
