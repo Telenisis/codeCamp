@@ -87,7 +87,6 @@ code {
 
 @media only screen and (max-width: 815px) {
   #navbar ul {
-    border: 1px solid;
     height: 0;
     /*display: none;*/
     overflow:auto;
